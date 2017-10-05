@@ -1,7 +1,7 @@
 html{
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  font-size: 1.5rem;
+  line height: 1.5rem;
 }
 
 img{
@@ -9,7 +9,7 @@ img{
 }
 
 h1, h2{
-  font-family: font-family: 'Patua One', cursive;
+  font-family:'Patua One'; cursive;
   color: #5d8432;
   text-transform:uppercase;
 }

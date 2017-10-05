@@ -9,8 +9,13 @@ img{
 }
 
 h1, h2{
+  font-family: font-family: 'Patua One', cursive;
   color: #5d8432;
   text-transform:uppercase;
+}
+
+.header{
+  font-size: 1.5rem
 }
 
 figcaption{
@@ -22,6 +27,7 @@ figcaption{
 a{
   font-style: bold;
   font-size: 1.125rem;
+  list-style-type: none;
 }
 
 a:link{

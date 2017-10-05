@@ -18,3 +18,10 @@ figcaption{
   font-style: italic;
   text-align: center;
 }
+
+a{
+  font-style: bold;
+  font-size: 1.125rem;
+  link: #793284;
+  hover:#b42885
+}

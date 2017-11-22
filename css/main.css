@@ -28,7 +28,6 @@ figcaption:nth-child(2) {
   font-size: .75rem;
 }
 
-
 a {
   font-weight: bold;
   font-size: 1.125rem;
@@ -36,6 +35,7 @@ a {
 
 a:link {
   color: #793284;
+  text-decoration: none;
 }
 
 a:hover {
